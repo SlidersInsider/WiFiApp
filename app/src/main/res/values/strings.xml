@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WiFiApp</string>
+    <string name="turn_off_service_button">Turn off silent mode service</string>
+    <string name="turn_on_service_button">Turn on silent mode service</string>
+    <string name="turn_on_off_wifi_button">Turn On/Off WiFi</string>
+    <string name="confirm_network_button">Confirm network name</string>
+    <string name="enter_wifi_network_edittext">Enter wifi network name</string>
+</resources>
